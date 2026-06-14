@@ -1,4 +1,4 @@
-# Oyinkansola Onwuchekwa
+# Oyinkansola Onwuchekwa (KKC)
 
 **AI Research Engineer and Data Scientist**  
 PhD Researcher in Data Science and AI, University of Hull  
