@@ -22,7 +22,7 @@ I am currently a PhD Researcher in Data Science and AI at the University of Hull
   A Python toolkit for African language pre-processing, emotion-label mapping, evaluation, and language/dialect routing. The project is designed as a clean public package for multilingual NLP research and low-resource AI experimentation.
 
 - [DimABSA 2026 DAIM Research](https://github.com/oyinkanchekwas/DimABSA_2026_DAIM_RESEARCH)  
-  A validated multilingual dimensional aspect-based sentiment analysis workspace with final Track B submission checks, reproducible dataset inventory, and deterministic validation tooling.
+  Multilingual NLP research for predicting how people feel about specific aspects in text, using valence-arousal scores for finer-grained sentiment beyond positive or negative labels.
 
 - [Portfolio](https://oyinkanchekwas.github.io)  
   My AI research engineering and data science portfolio, with selected projects, research interests, talks, service, and technical skills.
