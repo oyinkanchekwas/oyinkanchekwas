@@ -1,10 +1,10 @@
 # Oyinkansola Onwuchekwa (KKC)
 
-**AI Research Engineer and Data Scientist**  
-PhD Researcher in Data Science and AI, University of Hull  
-Multilingual NLP | Low-resource language technologies | Agentic AI | Emotion modelling | Responsible AI
+**AI Engineer and Research Scientist**<br>
+PhD Researcher in Data Science and AI, University of Hull<br>
+Multilingual NLP | Low-resource language technologies | Coding-agent evaluation | Emotion modelling | Responsible AI
 
-I build machine learning, natural language processing, retrieval-augmented generation, and multi-agent AI systems for multilingual and culturally grounded settings. My research focuses on low-resource African languages, code-mixed text, emotion recognition, music lyrics, responsible AI, and trustworthy workflows for research and decision-making.
+I build tested Python tools, natural language processing systems, retrieval-augmented generation workflows, and coding-agent evaluation artefacts for multilingual and culturally grounded settings. My research focuses on low-resource African languages, code-mixed text, emotion recognition, music lyrics, responsible AI, and trustworthy workflows for research and decision-making.
 
 I am currently a PhD Researcher in Data Science and AI at the University of Hull, where my thesis explores cross-cultural musical elements, emotional expression, and genre characteristics in contemporary global music lyrics using NLP and deep learning. I was awarded a fully funded Faculty of Science and Engineering PhD Scholarship in Data Science. I also teach machine learning, NLP, and deep learning laboratory sessions to MSc students, supporting practical model development, Python engineering, and applied AI evaluation.
 
@@ -12,20 +12,26 @@ I am currently a PhD Researcher in Data Science and AI at the University of Hull
 
 - **Low-resource and multilingual NLP:** African language processing, code-mixed text, tokenisation, language identification, cross-lingual transfer, and evaluation for underrepresented languages.
 - **Emotion recognition and music AI:** Fine-grained emotion modelling for multilingual lyrics, cultural context, class imbalance, and responsible interpretation of affective labels.
-- **Agentic AI and research automation:** LangGraph-style multi-agent systems for systematic literature reviews, protocol generation, evidence screening, synthesis, auditability, and structured outputs.
+- **Coding-agent evaluation and research automation:** trace-level datasets, monitor experiments, LangGraph-style multi-agent systems, evidence screening, synthesis, auditability, and structured outputs.
 - **Retrieval-augmented generation:** RAG and retrieval-augmented classification for grounding model outputs in examples, cultural knowledge, and traceable evidence.
 - **Responsible AI and cultural heritage:** Community-led data governance, digital/AI literacy, bias-aware NLP, ethical dataset use, and locally responsible AI frameworks.
 
 ## Selected Public Projects
 
-- [Low-Resource NLP Toolkit](https://github.com/oyinkanchekwas/low-resource-nlp-toolkit)  
-  A Python toolkit for African language pre-processing, emotion-label mapping, evaluation, and language/dialect routing. The project is designed as a clean public package for multilingual NLP research and low-resource AI experimentation.
+- [Low-Resource NLP Toolkit](https://github.com/oyinkanchekwas/low-resource-nlp-toolkit)
+  A released Python package for African language pre-processing, emotion-label mapping, evaluation, language routing, and code-switching audits. Available on [PyPI](https://pypi.org/project/low-resource-nlp-toolkit/).
 
-- [DimABSA 2026 DAIM Research](https://github.com/oyinkanchekwas/DimABSA_2026_DAIM_RESEARCH)  
+- [Coding Agent Failure Atlas](https://github.com/oyinkanchekwas/coding-agent-failure-atlas)
+  A labelled synthetic trace dataset for coding-agent monitor research, with evidence spans, intervention points, and safer counterfactuals.
+
+- [Coding Agent Monitor Lab](https://github.com/oyinkanchekwas/coding-agent-monitor-lab)
+  A small evaluation harness for testing whether monitors can catch risky coding-agent traces using structured evidence rather than broad completion scores.
+
+- [DimABSA 2026 DAIM Research](https://github.com/oyinkanchekwas/DimABSA_2026_DAIM_RESEARCH)
   Multilingual NLP research for predicting how people feel about specific aspects in text, using valence-arousal scores for finer-grained sentiment beyond positive or negative labels.
 
-- [Portfolio](https://oyinkanchekwas.github.io)  
-  My AI research engineering and data science portfolio, with selected projects, research interests, talks, service, and technical skills.
+- [Portfolio](https://oyinkanchekwas.github.io)
+  My AI engineering and research portfolio, with selected projects, research interests, talks, service, and technical skills.
 
 ## Publications, Papers, and Research Outputs
 
