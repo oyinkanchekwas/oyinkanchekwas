@@ -44,7 +44,7 @@ I am currently a PhD Researcher in Data Science and AI at the University of Hull
 
 - **UKRI Member, EPSRC and NERC Peer Review Colleges**
 - Reviewer, **International Conference on Learning Representations**
-- Reviewer, **Deep Learning Indaba**
+- Reviewer, **The Deep Learning Indaba**
 - Associate Fellow, **Advance HE**
 - Professional Member, **BCS - The Chartered Institute for IT**
 
