@@ -19,16 +19,16 @@ I am currently a PhD Researcher in Data Science and AI at the University of Hull
 ## Selected Public Projects
 
 - [Low-Resource NLP Toolkit](https://github.com/oyinkanchekwas/low-resource-nlp-toolkit)
-  A released Python package for African language pre-processing, emotion-label mapping, evaluation, language routing, and code-switching audits. Available on [PyPI](https://pypi.org/project/low-resource-nlp-toolkit/).
+  A released Python package for African language pre-processing, selective language routing, code-switch audits, emotion-label mapping, and coverage-aware evaluation. Its pinned [AfriSenti benchmark](https://oyinkanchekwas.github.io/low-resource-nlp-toolkit/benchmark/) covers 18,402 held-out test examples across five languages. Available on [PyPI](https://pypi.org/project/low-resource-nlp-toolkit/).
+
+- [Multilingual DimStance Baselines](https://github.com/oyinkanchekwas/multilingual-dimstance-baselines)
+  Reproducible baselines for SemEval-2026 Task 3, Track B, with fixed data hashes, grouped out-of-fold evaluation, low-resource training budgets, and uncertainty intervals. Aspect conditioning reduced test macro RMSE from 1.343 to 1.323.
 
 - [Coding Agent Failure Atlas](https://github.com/oyinkanchekwas/coding-agent-failure-atlas)
   A labelled synthetic trace dataset for coding-agent monitor research, with evidence spans, intervention points, and safer counterfactuals.
 
 - [Coding Agent Monitor Lab](https://github.com/oyinkanchekwas/coding-agent-monitor-lab)
   A small evaluation harness for testing whether monitors can catch risky coding-agent traces using structured evidence rather than broad completion scores.
-
-- [DimABSA 2026 DAIM Research](https://github.com/oyinkanchekwas/DimABSA_2026_DAIM_RESEARCH)
-  Multilingual NLP research for predicting how people feel about specific aspects in text, using valence-arousal scores for finer-grained sentiment beyond positive or negative labels.
 
 - [Portfolio](https://oyinkanchekwas.github.io)
   My AI engineering and research portfolio, with selected projects, research interests, talks, service, and technical skills.
@@ -69,5 +69,3 @@ I am currently a PhD Researcher in Data Science and AI at the University of Hull
 - Portfolio: [oyinkanchekwas.github.io](https://oyinkanchekwas.github.io)
 - LinkedIn: [linkedin.com/in/oyinkan-chekwas](https://www.linkedin.com/in/oyinkan-chekwas/)
 - GitHub: [github.com/oyinkanchekwas](https://github.com/oyinkanchekwas)
-
-I use this GitHub profile to make my AI research engineering work easier to discover, reproduce, and build on.
