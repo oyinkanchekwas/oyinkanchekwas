@@ -1,22 +1,31 @@
 # Oyinkansola Onwuchekwa (KKC)
 
-**AI Engineer and Research Scientist**<br>
+**AI Researcher and Engineer**<br>
 PhD Researcher in Data Science and AI, University of Hull<br>
-Multilingual NLP | Low-resource language technologies | Coding-agent evaluation | Emotion modelling | Responsible AI
+Agentic systems | Coding-agent evaluation | AI safety and assurance | Responsible AI | Multilingual NLP
 
-I build tested Python tools, natural language processing systems, retrieval-augmented generation workflows, and coding-agent evaluation artefacts for multilingual and culturally grounded settings. My research focuses on low-resource African languages, code-mixed text, emotion recognition, music lyrics, responsible AI, and trustworthy workflows for research and decision-making.
+I build and evaluate agentic systems, with a focus on coding-agent controls and trace-level evaluation. My wider research covers responsible AI, multilingual NLP, low-resource African languages, and culturally grounded emotion modelling.
 
 I am currently a PhD Researcher in Data Science and AI at the University of Hull, where my thesis explores cross-cultural musical elements, emotional expression, and genre characteristics in contemporary global music lyrics using NLP and deep learning. I was awarded a fully funded Faculty of Science and Engineering PhD Scholarship in Data Science. I also teach machine learning, NLP, and deep learning laboratory sessions to MSc students, supporting practical model development, Python engineering, and applied AI evaluation.
 
+[Website](https://oyinkanchekwas.com) | [Research portfolio](https://oyinkanchekwas.github.io) | [LinkedIn](https://www.linkedin.com/in/oyinkan-chekwas/)
+
 ## Research Focus
 
+- **Agentic systems and security:** Request authentication, tool permissions, approval controls, session-aware policies, and redacted audit records.
+- **Coding-agent evaluation and assurance:** Trace-level benchmarks, evidence localisation, intervention timing, causal policy probes, and safety-utility measurement.
+- **Responsible AI and cultural data governance:** Community-led governance, digital and AI literacy, bias-aware NLP, ethical dataset use, and locally responsible research practice.
 - **Low-resource and multilingual NLP:** African language processing, code-mixed text, tokenisation, language identification, cross-lingual transfer, and evaluation for underrepresented languages.
 - **Emotion recognition and music AI:** Fine-grained emotion modelling for multilingual lyrics, cultural context, class imbalance, and responsible interpretation of affective labels.
-- **Coding-agent evaluation and research automation:** trace-level datasets, monitor experiments, LangGraph-style multi-agent systems, evidence screening, synthesis, auditability, and structured outputs.
-- **Retrieval-augmented generation:** RAG and retrieval-augmented classification for grounding model outputs in examples, cultural knowledge, and traceable evidence.
-- **Responsible AI and cultural heritage:** Community-led data governance, digital/AI literacy, bias-aware NLP, ethical dataset use, and locally responsible AI frameworks.
+- **Retrieval and research systems:** Retrieval-augmented classification, evidence screening, provenance, structured outputs, and reproducible research workflows.
 
 ## Selected Public Projects
+
+- [Secure Agent Gateway](https://github.com/oyinkanchekwas/secure-agent-gateway)
+  A Python gateway for authenticated agent tool requests, role and parameter policies, request-bound approvals, and redacted audit records. Version 0.5.0 adds sequence-aware controls, bounded policy checking, policy-change analysis, and causal-temporal probe synthesis.
+
+- [Agentic Security Control Bench](https://github.com/oyinkanchekwas/agentic-security-control-bench)
+  A DOI-archived contrastive benchmark for evaluating coding-agent monitors. Its v0.4.1 release contains a 320-trace benchmark and a separate 160-trace adversarial holdout, with measures for prevention, permitted-task retention, evidence grounding, intervention timing, calibration, and approval burden.
 
 - [Low-Resource NLP Toolkit](https://github.com/oyinkanchekwas/low-resource-nlp-toolkit)
   A released Python package for African language pre-processing, selective language routing, code-switch audits, emotion-label mapping, and coverage-aware evaluation. Its pinned [AfriSenti benchmark](https://oyinkanchekwas.github.io/low-resource-nlp-toolkit/benchmark/) covers 18,402 held-out test examples across five languages. Available on [PyPI](https://pypi.org/project/low-resource-nlp-toolkit/).
@@ -28,10 +37,7 @@ I am currently a PhD Researcher in Data Science and AI at the University of Hull
   A labelled synthetic trace dataset for coding-agent monitor research, with evidence spans, intervention points, and safer counterfactuals.
 
 - [Coding Agent Monitor Lab](https://github.com/oyinkanchekwas/coding-agent-monitor-lab)
-  A small evaluation harness for testing whether monitors can catch risky coding-agent traces using structured evidence rather than broad completion scores.
-
-- [Portfolio](https://oyinkanchekwas.github.io)
-  My AI engineering and research portfolio, with selected projects, research interests, talks, service, and technical skills.
+  An evaluation harness for testing whether monitors catch risky coding-agent traces using structured evidence and localised failure labels.
 
 ## Publications, Papers, and Research Outputs
 
@@ -59,13 +65,15 @@ I am currently a PhD Researcher in Data Science and AI at the University of Hull
 
 ## Technical Stack
 
-**Languages and frameworks:** Python, PyTorch, TensorFlow, Hugging Face Transformers, scikit-learn, LangChain, LangGraph, Bash  
-**AI and NLP:** multilingual NLP, low-resource language processing, emotion classification, LLM fine-tuning, RAG, agentic AI, machine learning evaluation, bias and fairness metrics  
-**Data and engineering:** pandas, NumPy, reproducible research tooling, structured JSON/CSV outputs, Git, Docker, Azure  
+**Languages and frameworks:** Python, PyTorch, TensorFlow, Hugging Face Transformers, scikit-learn, LangChain, LangGraph, Bash<br>
+**Agent systems and assurance:** coding-agent evaluation, policy enforcement, approval workflows, audit logging, agent security, and model evaluation<br>
+**AI and NLP:** multilingual NLP, low-resource language processing, emotion classification, model fine-tuning, RAG, and bias and fairness metrics<br>
+**Data and engineering:** pandas, NumPy, reproducible research tooling, structured JSON/CSV outputs, Git, Docker, Azure<br>
 **Human languages:** English, Yoruba, Spanish, French
 
 ## Links
 
-- Portfolio: [oyinkanchekwas.github.io](https://oyinkanchekwas.github.io)
+- Website: [oyinkanchekwas.com](https://oyinkanchekwas.com)
+- Research portfolio: [oyinkanchekwas.github.io](https://oyinkanchekwas.github.io)
 - LinkedIn: [linkedin.com/in/oyinkan-chekwas](https://www.linkedin.com/in/oyinkan-chekwas/)
 - GitHub: [github.com/oyinkanchekwas](https://github.com/oyinkanchekwas)
